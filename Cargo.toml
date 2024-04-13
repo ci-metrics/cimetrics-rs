@@ -2,6 +2,12 @@
 name = "cimetrics-rs"
 version = "0.1.0"
 edition = "2021"
+description = "Non-standard integer types like `u7`, `u9`, `u10`, `u63`, `i7`, `i9` etc."
+license = "Apache-2.0"
+
+repository = "https://github.com/ci-metrics/cimetrics-rs"
+documentation = "https://docs.rs/cimetrics-rs/"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
